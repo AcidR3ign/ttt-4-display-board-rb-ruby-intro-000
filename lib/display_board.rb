@@ -1,5 +1,5 @@
 def display_board(board)
-  rows = [
+  return rows = [
     "   |   |   "
   ]
 end
